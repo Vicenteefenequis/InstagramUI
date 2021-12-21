@@ -12,7 +12,7 @@ struct ContentView: View {
                 
                 Divider()
                 
-                Post()
+                Post(image: "dog", description: "I Love Dogs")
                 
                 Post(image: "dog", description: "I Love Dogs")
                 
